@@ -2,3 +2,5 @@ http://www.yhzq-blog.cc/
 http://mirrors.ustc.edu.cn/
 https://tuna.moe/
 telnet towel.blinkenlights.nl //Star Wars!!
+https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac //You may need to take this site as a key “pac.dtwang.org”
+https://github.com/bannedbook/fanqiang
